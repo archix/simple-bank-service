@@ -41,10 +41,10 @@ This is a **simple banking service** implemented in Go that simulates basic bank
 1. **Prerequisites:**
    - [Go](https://golang.org/dl/) (version 1.20+)
 
-2. **Initialize Go Module:**
+2. **Clone repo:**
 
    ```bash
-   go mod init bankservice
+   git clone git@github.com:archix/simple-bank-service.git
    ```
 
 3. **Run the Tests:**
